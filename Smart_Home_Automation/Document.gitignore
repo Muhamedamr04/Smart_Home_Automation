@@ -1,0 +1,24 @@
+# ---------------------------
+# Build output files
+# ---------------------------
+*.o
+*.elf
+*.hex
+*.map
+*.d
+*.lst
+
+# ---------------------------
+# Atmel/Microchip Studio specific
+# ---------------------------
+*.aps
+*.bak
+*.dep
+Debug/
+Release/
+
+# ---------------------------
+# OS-specific files
+# ---------------------------
+.DS_Store
+Thumbs.db
