@@ -32,10 +32,6 @@ It integrates **sensors (LDR & LM35)**, **ADC**, **PWM**, and **DC Motor control
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## ⚙️ System Behavior
 - **Light intensity levels** (via LDR):  
   - `< 15%` → Red + Green + Blue LEDs ON.  
@@ -74,9 +70,13 @@ It integrates **sensors (LDR & LM35)**, **ADC**, **PWM**, and **DC Motor control
 
 ---
 
+## 📸 Demo
+🔗 [LinkedIn](https://www.linkedin.com/posts/moamr04_embeddedsystems-smarthome-iot-activity-7378072442507816960-Ic-Q?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAETVuYEB4Qeqhcj92reIoQuR05DbOfhIkgU)   
+
+---
+
 ## 👨‍💻 Author
 **Edges For Training Team**  
-🔗 [LinkedIn](https://www.linkedin.com/posts/moamr04_embeddedsystems-smarthome-iot-activity-7378072442507816960-Ic-Q?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAETVuYEB4Qeqhcj92reIoQuR05DbOfhIkgU)  
 
 ---
 
